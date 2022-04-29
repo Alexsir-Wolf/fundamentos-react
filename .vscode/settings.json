@@ -1,0 +1,10 @@
+{
+    "editor.defaultFormatter": "HookyQR.beautify",
+    "editor.formatOnPaste": true,
+    "[html]": {
+        "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+    }
+}

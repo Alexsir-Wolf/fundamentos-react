@@ -1,0 +1,20 @@
+.btn {
+    border-width: 0px;
+    margin: 5px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rgba(13, 46, 228, 0.918);
+    color: azure;
+    font-size: 1.3rem;
+}
+
+.resetBtn {
+    border-width: 0px;
+    margin: 5px;
+    height: 35px;
+    border-radius: 10%;
+    background-color: red;
+    color: azure;
+    font-size: 1.3rem;
+}

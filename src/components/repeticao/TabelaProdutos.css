@@ -1,0 +1,15 @@
+.tabela th {
+    background-color: #0066ff;
+    border-radius: 5px;
+}
+
+.tabela td {
+    background-color: lightgrey;
+    border-radius: 2px;
+}
+
+.tabela {
+    width: 100%;
+    background-color: rgb(88, 93, 116);
+    border-radius: 5px;
+}
